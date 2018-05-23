@@ -1,0 +1,85 @@
+[
+  {
+    "name":"当你",
+    "singer":"林俊杰",
+    "time":"04:09",
+    "link_url":"audio/当你.mp3",
+    "cover":"imgs/ge/1.jpg",
+    "link_lrc":"geCi/dangni.txt"
+  },
+  {
+    "name":"不仅仅喜欢你",
+    "singer":"肖全、孙语赛",
+    "time":"03:48",
+    "link_url":"audio/不仅仅是喜欢.mp3",
+    "cover":"imgs/ge/2.jpg",
+    "link_lrc":"geCi/不仅仅是喜欢.txt"
+  },
+  {
+    "name":"メロンジュース",
+    "singer":"HKT48",
+    "time":"03:26",
+    "link_url":"audio/メロンジュース.mp3",
+    "cover":"imgs/ge/3.jpg",
+    "link_lrc":"geCi/メロンジュース.txt"
+  },
+  {
+    "name":"メロンジュース 演唱会版",
+    "singer":"HKT48",
+    "time":"02:50",
+    "link_url":"audio/メロンジュース1.mp3",
+    "cover":"imgs/ge/3.jpg",
+    "link_lrc":"geCi/メロンジュース演唱版.txt"
+  },
+  {
+    "name":"看紧我",
+    "singer":"蔡依林",
+    "time":"03:40",
+    "link_url":"audio/看紧我.mp3",
+    "cover":"imgs/ge/4.jpeg",
+    "link_lrc":"geCi/看紧我.txt"
+  },
+  {
+    "name":"佛系少女",
+    "singer":"冯提莫",
+    "time":"03:14",
+    "link_url":"audio/佛系少女.mp3",
+    "cover":"imgs/ge/5.jpg",
+    "link_lrc":"geCi/佛系少女.txt"
+  },
+  {
+    "name":"不仅仅喜欢你",
+    "singer":"肖全、孙语赛",
+    "time":"03:48",
+    "link_url":"audio/不仅仅是喜欢.mp3",
+    "cover":"imgs/ge/2.jpg",
+    "link_lrc":"geCi/不仅仅是喜欢.txt"
+  },
+  {
+    "name":"看紧我",
+    "singer":"蔡依林",
+    "time":"03:40",
+    "link_url":"audio/看紧我.mp3",
+    "cover":"imgs/ge/4.jpeg",
+    "link_lrc":"geCi/看紧我.txt"
+  },
+  {
+    "name":"メロンジュース",
+    "singer":"HKT48",
+    "time":"03:26",
+    "link_url":"audio/メロンジュース.mp3",
+    "cover":"imgs/ge/3.jpg",
+    "link_lrc":"geCi/メロンジュース.txt"
+  },
+  {
+    "name":"メロンジュース 演唱会版",
+    "singer":"HKT48",
+    "time":"02:50",
+    "link_url":"audio/メロンジュース1.mp3",
+    "cover":"imgs/ge/3.jpg",
+    "link_lrc":"geCi/メロンジュース演唱版.txt"
+  }
+]
+
+
+
